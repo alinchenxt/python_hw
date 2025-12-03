@@ -10,6 +10,6 @@ This is a repository which, from now on, will be containing Alina's (alinchenxt)
 
 ### Their respective functions are:
 * **data/** --> contains data
-* **misc/** --> contains any miscellaneous files
-* **rosalind/** --> *to be announced*
+* **misc/** --> contains all daily files rom the lessons
+* **rosalind/** --> contains the solutions to all rosalind exercises solved at home to date
 * **aoc25/** --> *to be announced*
