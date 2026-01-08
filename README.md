@@ -9,7 +9,7 @@ This is a repository which, from now on, will be containing Alina's (alinchenxt)
 * aoc25/
 
 ### Their respective functions are:
-* **data/** --> contains data
-* **misc/** --> contains all daily files rom the lessons
+* **data/** --> contains data from advent of code 2025
+* **misc/** --> contains all daily files from the lessons
 * **rosalind/** --> contains the solutions to all rosalind exercises solved at home to date
-* **aoc25/** --> *to be announced*
+* **aoc25/** --> contains the solutions and trials to all advent of code 2025 exercises worked on to date
